@@ -47,4 +47,4 @@ The dataset includes various attributes of vehicles such as:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/prathikshaghasari/automotive-eda-python.git)
