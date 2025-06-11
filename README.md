@@ -71,7 +71,7 @@ In a new Colab notebook, run:
 ### Step 5: Load or Upload the Dataset
 
 If the dataset isn't included:
-- Use the **left sidebar in Colab** to upload `car_dataset.csv`
+- Use the **left sidebar in Colab** to upload `car_dataset_analysis.csv`
 - Or mount your Google Drive with:
 
 ```python
